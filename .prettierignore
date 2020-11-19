@@ -1,0 +1,4 @@
+*.md
+config/
+scripts/
+resources/
